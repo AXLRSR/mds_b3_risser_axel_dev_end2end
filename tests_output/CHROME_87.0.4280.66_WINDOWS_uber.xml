@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="10">
+
+  <testsuite name="uber"
+    errors="0" failures="0" hostname="" id="" package="uber" skipped="0"
+    tests="10" time="188.3" timestamp="">
+  
+    <testcase name="Open Uber Website" classname="uber" time="4.498" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check block login in the header wrapper" classname="uber" time="15.46" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check login block in two sections" classname="uber" time="12.59" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check login chauffeur section" classname="uber" time="19.60" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check login passager section" classname="uber" time="19.72" assertions="7">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check Registration block in two sections" classname="uber" time="10.15" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check Registration block with Devenir Professional section" classname="uber" time="42.38" assertions="11">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check Registration block with Commander une course section" classname="uber" time="23.65" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Registration with Commander une course section shouldnt pass" classname="uber" time="19.56" assertions="7">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Registration should pass" classname="uber" time="20.68" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
